@@ -21,8 +21,8 @@ Clone this repository:
 sh
 Copy
 Edit
-git clone https://github.com/your-username/simple-voice-assistant.git
-cd simple-voice-assistant
+git clone https://github.com/ItsMakha/Voice-Assistant.git
+cd Voice-Assistant
 Install dependencies:
 sh
 Copy
